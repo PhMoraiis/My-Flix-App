@@ -223,16 +223,6 @@
   <!-- migrate from tailwind to styled-components if/when necessary -->
 </table>
 
-## 📝 Sobre - Inicial
-
-> Assistir o vídeo acima e/ou acessar o projeto online ajudará na compreensão da explicação!
-<img align="right" src="" alt="notepad icon" />
-<br/><br/>
-Também recomendo conferir especialmente os motivos da utilização de <b>NextJS</b>, <b>Typescript</b>, <b>Redux</b> e <b>Tailwind</b> na sessão de <a href="#-tecnologias-utilizadas">Tecnologias</a>, pois meu principal objetivo com esse projeto foi desenvolver minha autonomia com tais tecnologias, visto que sou um desenvolvedor <b>React</b> e elas são uma parte fundamental de seu ecossistema, sendo elas as principais responsáveis pela agilidade, confiança, performance e profissionalismo de forma geral durante o desenvolvimento da aplicação, devido aos seus excelentes recursos.
-<br/><br/>
-Mas isso claro, sem tirar o mérito das outras tecnologias utilizadas, todas elas desempenham um papel fundamental especificado junto delas, e contribuem para o resultado do projeto como um todo, e irei continuar aprendendo e me aprofundando bastante nessas tecnologias e no que for necessário durante o desenvolvimento dessa aplicação para colocar todas as minhas ideias em prática e cumprir todas as tarefas listadas na sessão de <a href="#%EF%B8%8F-etapas">Etapas</a>, que é uma sessão que também vale a pena conferir para ter uma visão geral sobre a evolução do projeto.
-
-
 ## 📖 Clonando o Projeto
 
 Para clonar e executar este projeto em seu computador, você precisará do [Git](https://git-scm.com/) e [Node.js v18.12.1](https://nodejs.org/en/) ou superior previamente instalados.<br>
@@ -253,7 +243,7 @@ Feito isso, no terminal:
 # Feito isso, você já poderá estar acessando o projeto em: http://localhost:3000
 ```
 
-## 📞 Contato dos Contribuintes
+## 📞 Contato
 
 <table border="2">
   <tr>
@@ -281,7 +271,3 @@ Feito isso, no terminal:
     </td>
   </tr>
 </table>
-
-<p align="right">
-  <a href="#%EF%B8%8F-my-flix-app">Voltar ao Topo</a>
-</p>
