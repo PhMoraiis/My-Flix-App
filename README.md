@@ -91,6 +91,16 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://vanilla-extract.style/">
+        <img src="https://bestofjs.org/logos/vanilla.dark.svg" width="65px" alt="CSS3 icon"/><br>
+        <sub>
+          <b>
+            <pre>Vanilla Extract</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://react-icons.github.io/react-icons/">
         <img src="https://user-images.githubusercontent.com/86276393/212928845-43fc02b7-bedb-4fb3-aed4-411a8e892920.png" height="65px" alt="React Icons icon"/><br>
         <sub>
