@@ -1,6 +1,6 @@
+import { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { APIKey } from '../../config/key';
-import { useEffect, useState } from 'react';
 
 interface Movie {
   id: number;

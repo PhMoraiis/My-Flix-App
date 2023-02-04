@@ -49,28 +49,6 @@
       </a>
     </td>
     <td align="center">
-    <a href="https://tailwindcss.com/">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br>
-        <sub>
-          <b>
-            <pre>Tailwind</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://react-icons.github.io/react-icons/">
-        <img src="https://user-images.githubusercontent.com/86276393/212928845-43fc02b7-bedb-4fb3-aed4-411a8e892920.png" height="65px" alt="React Icons icon"/><br>
-        <sub>
-          <b>
-            <pre>React Icons</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
         <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br>
         <sub>
@@ -88,6 +66,88 @@
         <sub>
           <b>
             <pre>CSS3</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+    <a href="https://vanilla-extract.style/">
+        <img src="https://i.ibb.co/4pQmgCt/vanilla-extract-tutorial-zero-runtime-stylesheets-removebg-preview.png" width="65px" alt="Vanilla Extract Icon"/><br>
+        <sub>
+          <b>
+            <pre>Vanilla Extract</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://react-icons.github.io/react-icons/">
+        <img src="https://user-images.githubusercontent.com/86276393/212928845-43fc02b7-bedb-4fb3-aed4-411a8e892920.png" height="65px" alt="React Icons icon"/><br>
+        <sub>
+          <b>
+            <pre>React Icons</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.framer.com/motion/">
+        <img src="https://camo.githubusercontent.com/179d66ab2b0321726c88a586c4ad38802e7113a3c98c6fd3f0156c01c98cfd14/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f34386861395a52396f5a51475136675a38595566456c50335430412e706e67" height="65px" alt="Framer Motion icon"/><br>
+        <sub>
+          <b>
+            <pre>Framer Motion</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://jestjs.io/pt-BR/">
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="65px" alt="Jest icon"/><br>
+        <sub>
+          <b>
+            <pre>Jest</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://testing-library.com/">
+        <img src="https://testing-library.com/img/octopus-128x128.png" height="65px" alt="Testing Library icon"/><br>
+        <sub>
+          <b>
+            <pre>React Testing Library</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tanstack.com/query/latest">
+        <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" height="65px" alt="React Query icon"/><br>
+        <sub>
+          <b>
+            <pre>React Query</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://vitejs.dev/">
+        <img src="https://vitejs.dev/logo-with-shadow.png" height="65px" alt="Vite icon"/><br>
+        <sub>
+          <b>
+            <pre>Vite</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://avatars.githubusercontent.com/u/53986236?s=280&v=4">
+        <img src="https://avatars.githubusercontent.com/u/53986236?s=280&v=4" height="65px" alt="React Hook Form icon"/><br>
+        <sub>
+          <b>
+            <pre>React Hook Form</pre>
           </b>
         </sub>
       </a>
@@ -157,8 +217,8 @@
       Finalização da estrutura e estilo da <code>pages/index</code>
     </td>
   </tr>
-  
-  
+
+
   <!-- suggest user account data in payment -->
   <!-- migrate from tailwind to styled-components if/when necessary -->
 </table>

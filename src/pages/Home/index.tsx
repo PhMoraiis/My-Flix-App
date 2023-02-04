@@ -1,12 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { APIKey } from '../../config/key';
-
-interface Movie {
-  id: number;
-  title: string;
-  poster_path: string;
-}
+import { Movie } from '../../types/Movie';
 
 const Home: React.FC = () => {
   const [movies, setMovies] = useState<Movie[]>([]);
