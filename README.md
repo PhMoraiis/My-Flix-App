@@ -132,6 +132,8 @@
         </sub>
       </a>
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://vitejs.dev/">
         <img src="https://vitejs.dev/logo-with-shadow.png" height="65px" alt="Vite icon"/><br>
