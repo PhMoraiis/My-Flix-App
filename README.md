@@ -58,8 +58,28 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://tanstack.com/query/latest">
+        <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" height="65px" alt="React Query icon"/><br>
+        <sub>
+          <b>
+            <pre>React Query</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
   </tr>
   <tr>
+  <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+        <sub>
+          <b>
+            <pre>HTML5</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
         <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
@@ -112,16 +132,6 @@
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://tanstack.com/query/latest">
-        <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" height="65px" alt="React Query icon"/><br>
-        <sub>
-          <b>
-            <pre>React Query</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
     </tr>
     <tr>
     <td align="center">
@@ -140,16 +150,6 @@
         <sub>
           <b>
             <pre>React Hook Form</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
-        <sub>
-          <b>
-            <pre>HTML5</pre>
           </b>
         </sub>
       </a>
