@@ -1,24 +1,17 @@
 import { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { APIKey } from '../../config/key';
+import { MovieDetail } from '../../types/MovieDetail';
 
-interface Movie {
-  id: number;
-  title: string;
-  image: string;
-  sinopse: string;
-  releaseDate: string;
-}
-
-function Details() {
+const Details: React.FC = () => {
   const { id: idString } = useParams();
-  const [movie, setMovie] = useState<Movie | null>(null);
+  const [movie, setMovie] = useState<MovieDetail | null>(null);
   const [error, setError] = useState('');
   const image_path = 'https://image.tmdb.org/t/p/w500/';
 
   useEffect(() => {
     const id = parseInt(idString!);
-    fetch(`https://api.themoviedb.org/3/movie/${id}?api_key=${APIKey}&language=en-US`)
+    fetch(`https://api.themoviedb.org/3/movie/${id}?api_key=${APIKey}&language=pt-BR`)
       .then(res => {
         if (!res.ok) {
           throw new Error(res.statusText);

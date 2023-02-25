@@ -174,7 +174,7 @@
       🗹
     </td>
     <td>
-      Ideia inicial do projeto e criação do repositório
+      Escolha da linguagem de programação e um framework front-end para trabalhar.
     </td>
   </tr>
   <tr>
@@ -182,7 +182,15 @@
       🗹
     </td>
     <td>
-      Definição da estrutura base e instalação de dependências
+      Configuração do ambiente de desenvolvimento, instalando as ferramentas necessárias, como o Node, React e as outras dependências.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🗹
+    </td>
+    <td>
+       Criar uma estrutura básica para o projeto, incluindo pastas para código-fonte, estilos e imagens.
     </td>
   </tr>
   <tr>
@@ -190,7 +198,7 @@
       ☐
     </td>
     <td>
-       Definição de estilos globais
+      Consumo da API do TMDB para mostrar os filmes recentes, usando requisições HTTP e tratando a resposta da API.
     </td>
   </tr>
   <tr>
@@ -198,7 +206,7 @@
       ☐
     </td>
     <td>
-      Desenvolvimento da base da <code>pages/index</code>
+      Adicionar a funcionalidade de busca, permitindo aos usuários pesquisarem filmes específicos usando uma barra de pesquisa.
     </td>
   </tr>
   <tr>
@@ -206,7 +214,7 @@
       ☐
     </td>
     <td>
-      Desenvolvimento do <code>components/Header</code>
+      Armazenar as informações de usuários, incluindo suas preferências e classificações, em um banco de dados, como o MongoDB.
     </td>
   </tr>
   <tr>
@@ -214,11 +222,81 @@
       ☐
     </td>
     <td>
-      Finalização da estrutura e estilo da <code>pages/index</code>
+      Usar as informações de usuários para recomendar filmes personalizados.
     </td>
   </tr>
-
-
+  <tr>
+    <td>
+      ☐
+    </td>
+    <td>
+      Mostrar informações adicionais sobre um filme, como elenco e equipe de produção, além de sua classificação média.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ☐
+    </td>
+    <td>
+      Adicionar seções adicionais para filmes mais recentes, mais populares e melhor classificados.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ☐
+    </td>
+    <td>
+      Permitir aos usuários salvar seus filmes favoritos e acessá-los facilmente.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ☐
+    </td>
+    <td>
+      Testar e depurar o projeto, corrigindo quaisquer erros ou bugs.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ☐
+    </td>
+    <td>
+      Autenticação de usuários: Permita que os usuários criem contas e façam login para ter acesso a todas as funcionalidades.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ☐
+    </td>
+    <td>
+      Comentários de usuários: Permita que os usuários postem comentários sobre filmes, compartilhando suas opiniões com outros usuários.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ☐
+    </td>
+    <td>
+      Integração com redes sociais: Permita que os usuários compartilhem seus filmes favoritos e classificações com amigos em redes sociais como Facebook e Twitter.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ☐
+    </td>
+    <td>
+      Notificações: Envie notificações aos usuários quando filmes novos são lançados ou quando suas recomendações personalizadas mudam.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ☐
+    </td>
+    <td>
+      Deploy do projeto em um servidor de produção para torná-lo acessível aos usuários.
+    </td>
+  </tr>
   <!-- suggest user account data in payment -->
   <!-- migrate from tailwind to styled-components if/when necessary -->
 </table>
